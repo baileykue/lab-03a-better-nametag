@@ -71,3 +71,8 @@ section {
 #pink:hover {
     background-color: pink;
 }
+
+button {
+    border-radius: 2rem;
+};
+
