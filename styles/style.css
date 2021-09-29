@@ -54,3 +54,20 @@ footer {
     margin-left: 10px;
 
 }
+
+section {
+    width: 400px;
+    text-align: center;
+}
+
+#green:hover {
+    background-color: lightgreen; 
+}
+
+#blue:hover {
+    background-color: lightblue;
+}
+
+#pink:hover {
+    background-color: pink;
+}
